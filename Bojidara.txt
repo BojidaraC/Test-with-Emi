@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ok, here I wrote smth
 Did you now?
+=======
+Ok, here I wrote smth
+>>>>>>> 184fc1c48b7ec57d21ef6f7b17c9c772fbe12deb
